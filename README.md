@@ -13,4 +13,4 @@
 ![N|Solid](http://exposit.xyz/images/unknown.png)
 
 
-**If you need help contact me help@exposit.xyz**
+**If you need help contact me https://exposit.xyz/**
