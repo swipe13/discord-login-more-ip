@@ -1,16 +1,17 @@
 # Ferreira13
  
- Discord Login more ip Address that records in the database.
+ Discord Login mais ip e outras informações.
 
-  - First go to **login.php** and switch to your disagreement credentials.
-  - Down on the **same page**, change the redirect_uri to your url that you want to redirect the url of the code with.
-  - note that all links in the redirect must match the links in your discord developer dashboard.
-  - Do not forget to exchange the data from the page **db.php** for your database so that the ip can be registered plus the information.
+- Primeiro vá para **login.php** e **index.php** e mude para as suas credenciais do discord.
+- Abaixo na **mesma pagina**, altere o redirect_uri para o seu url ou seja **https://yoursite.com/pasta_onde_estiver_o_codigo/
+- Observer que todos links no redirecionamneto devem corresponder aos links do seu painel de desenvolvedor discord.
+- Não se esqueça de trocar os dados do ficheiro **db.php** pelo o seu banco de dados para que seja registado o ip e mais informações.
+- Não se esqueça também que os links que coloca no redirect_uri tem de ser iguais aos que coloca na dashboard do discord
   
 ![N|Solid](http://exposit.xyz/images/transferir.png)
 
-# After setup
+# Após a configuração 
 ![N|Solid](http://exposit.xyz/images/unknown.png)
 
 
-**If you need help contact me https://exposit.xyz/**
+**Se precisar de ajude entre em contacto https://exposit.xyz/**
