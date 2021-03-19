@@ -7,10 +7,10 @@
   - note that all links in the redirect must match the links in your discord developer dashboard.
   - Do not forget to exchange the data from the page **db.php** for your database so that the ip can be registered plus the information.
   
-![N|Solid](http://verify.exposit.xyz/transferir.png)
+![N|Solid](http://exposit.xyz/images/transferir.png)
 
 # After setup
-![N|Solid](http://verify.exposit.xyz/unknown.png)
+![N|Solid](http://exposit.xyz/images/unknown.png)
 
 
 **If you need help contact me help@exposit.xyz**
